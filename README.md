@@ -78,8 +78,7 @@ HotelManagement/
 
 ## 🎬 Demo Video
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dFLTqsu2VnNw_K5j9qjx6r3TbRf6WESr/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1EUTAEjolvTYcNxjnlOo9hTsaPZVLf1yk/view?usp=sharing" target="_blank">
     Watch Demo Video
   </a>
 </p>
-
