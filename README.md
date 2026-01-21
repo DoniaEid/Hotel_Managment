@@ -45,3 +45,28 @@ The system allows users to:
 ---
 
 ## 📂 Project Structure
+HotelManagement/
+├── src/
+│ ├── models/ # Core classes representing entities
+│ │ ├── Customer.java # Customer data (name, age, contact, etc.)
+│ │ ├── Room.java # Hotel rooms (number, type, price, availability)
+│ │ └── Service.java # Additional services (service name, price)
+│ │
+│ ├── managers/ # Handles operations on data
+│ │ ├── CustomerManager.java # Add, edit, delete, search customers
+│ │ ├── RoomManager.java # Manage rooms, availability, reservations
+│ │ └── ServiceManager.java # Manage additional services
+│ │
+│ └── gui/ # Java Swing GUI classes
+│ ├── MainFrame.java # Main application window
+│ ├── CustomerPanel.java # GUI for managing customers
+│ ├── RoomPanel.java # GUI for managing rooms
+│ └── ServicePanel.java # GUI for managing services
+│
+├── data/ # Persistent storage
+│ ├── customer.txt # Customer information
+│ ├── room.txt # Room information
+│ └── service.txt # Service information
+│
+├── README.md # Project documentation
+└── LICENSE # License file
