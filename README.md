@@ -45,8 +45,8 @@ The system allows users to:
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
+```text
 HotelManagement/
 ├── src/
 │   ├── models/               # Core classes representing entities
@@ -72,3 +72,4 @@ HotelManagement/
 │
 ├── README.md                 # Project documentation
 └── LICENSE                   # License file
+
