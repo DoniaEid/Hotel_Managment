@@ -147,13 +147,10 @@ HotelManagement/
 │
 ├── README.md                 # Project documentation
 └── LICENSE                   # License file
-
----
-
+```
 ## 🎬 Demo Video
 
-<p align="center">
-  <img src="assets/demo.gif" width="600"/>
-  <br>Demo of Hotel Management System
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="assets/demo.gif" width="600" style="border-radius: 8px;"/>
+  <br><em>Demo of Hotel Management System</em>
 </p>
-
