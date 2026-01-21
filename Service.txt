@@ -1,0 +1,1 @@
+gym,500.0,cool,true
