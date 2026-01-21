@@ -151,6 +151,6 @@ HotelManagement/
 ## 🎬 Demo Video
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="assets/demo.gif" width="600" style="border-radius: 8px;"/>
+  <img src="https://drive.google.com/file/d/1dFLTqsu2VnNw_K5j9qjx6r3TbRf6WESr/view?usp=drive_link" style="border-radius: 8px;"/>
   <br><em>Demo of Hotel Management System</em>
 </p>
